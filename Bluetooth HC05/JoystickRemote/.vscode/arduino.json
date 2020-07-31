@@ -1,0 +1,8 @@
+{
+    "port": "COM5",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "sketch": "JoystickRemote.ino",
+    "output": "./build"
+}

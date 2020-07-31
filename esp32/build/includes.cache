@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\cores\\esp32"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "c:\\Arduino\\My Sketches\\esp32\\build\\sketch\\esp32_serial_test.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

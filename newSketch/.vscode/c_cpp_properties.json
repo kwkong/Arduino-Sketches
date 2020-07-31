@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Arduino\\tools\\**",
+                "C:\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.1\\**",
+                "C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.2\\**",
+                "{$workspaceFolder}\\libraries",
+                "F:\\Arduino\\arduino-1.8.8\\hardware\\tools\\avr\\lib\\gcc\\avr\\5.4.0\\include",
+                "F:\\Arduino\\arduino-1.8.8\\hardware\\arduino\\avr\\cores\\arduino",
+                "F:\\Arduino\\arduino-1.8.8\\hardware\\arduino\\avr\\variants\\standard",
+                "F:\\Arduino\\arduino-1.8.8"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "\\build\\preproc\\ctags_target_for_gcc_minus_e.cpp,\\build\\sketch\\WaterLevelSensor.ino.cpp",
+  "builtInLibrariesFolders": "F:\\Arduino\\arduino-1.8.8\\libraries",
+  "customBuildProperties": "build.path=c:\\Arduino\\My Sketches\\WaterLevelSensor\\build,build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:nano:cpu=atmega328",
+  "hardwareFolders": "F:\\Arduino\\arduino-1.8.8\\hardware,C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages,C:\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Arduino\\libraries",
+  "runtime.ide.version": "10808",
+  "sketchLocation": "c:\\Arduino\\My Sketches\\WaterLevelSensor\\WaterLevelSensor.ino",
+  "toolsFolders": "F:\\Arduino\\arduino-1.8.8\\tools-builder,F:\\Arduino\\arduino-1.8.8\\hardware\\tools\\avr,C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages"
+}

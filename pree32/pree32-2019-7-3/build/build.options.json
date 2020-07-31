@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "\\build\\preproc\\ctags_target_for_gcc_minus_e.cpp,\\build\\sketch\\pree32-2019-7-3.ino.cpp",
+  "builtInLibrariesFolders": "F:\\Arduino\\arduino-1.8.8\\libraries",
+  "customBuildProperties": "build.path=c:\\Arduino\\My Sketches\\pree32-2019-7-3\\build,build.warn_data_percentage=75,runtime.tools.esptool_py.path=C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\2.6.1,runtime.tools.esptool_py-2.6.1.path=C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\2.6.1,runtime.tools.mkspiffs.path=C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mkspiffs\\0.2.3,runtime.tools.mkspiffs-0.2.3.path=C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mkspiffs\\0.2.3,runtime.tools.xtensa-esp32-elf-gcc.path=C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\1.22.0-80-g6c4433a-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-80-g6c4433a-5.2.0.path=C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\1.22.0-80-g6c4433a-5.2.0",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "F:\\Arduino\\arduino-1.8.8\\hardware,C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages,C:\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Arduino\\libraries",
+  "runtime.ide.version": "10808",
+  "sketchLocation": "c:\\Arduino\\My Sketches\\pree32-2019-7-3\\pree32-2019-7-3.ino",
+  "toolsFolders": "F:\\Arduino\\arduino-1.8.8\\tools-builder,F:\\Arduino\\arduino-1.8.8\\hardware\\tools\\avr,C:\\Users\\krist\\AppData\\Local\\Arduino15\\packages"
+}

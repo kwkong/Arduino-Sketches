@@ -1,0 +1,47 @@
+User Serial Functions:
+
+Enable/Disable Sensor
+	Enable/disable the detector
+
+		Counter Sends a high on a status pin that allows the detector to enter the detect while loop.
+
+Force Parcel Event
+	Trigger high on signal pin to simulate a parcel event
+
+		Detector artificially writes the signal (counter interrupt) pin high then low.
+
+Query/Adjust Light Intensity
+	Query/adjust PWM value to LED, to vary brightness
+
+		Query: Return brightness Value as a percent
+
+		Adjust: Prompt user to enter brightness value as a percent
+				Reads percent and converts it to a corresponding PWM value.
+
+Query/Adjust Sensor Sensitivity  //kind of pointless
+	Query/adjust the analogRead threshold required to trigger a parcel event
+
+		Query: Return sensor sensitivity threshold
+
+		Adjust: Prompt user to enter new threshold
+				Write new threshold to sensitivity variable
+
+Query Time
+	Query the system time to that of the main system
+
+		Query: Uses get system time function
+			   Returns reply
+
+
+System Serial Functions:
+
+Get System Time
+	Request the time from the main system.
+
+		Sends time request over serial to the main system, and stores response as the time. This is used when parcel event is being reported to the main system, and the time requested from the server included in the "report".
+
+Report Parcel
+	Sends information about a parcel event.
+
+		Sends a "report" of the latest parcel event that was registered. Report includes the direction of the parcel, as well as the time that the event was registered.
+

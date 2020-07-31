@@ -1,0 +1,8 @@
+{
+    "board": "esp32:esp32:esp32",
+    "configuration": "PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+    "programmer": "AVRISP mkII",
+    "sketch": "pree32ct-2019-8-8.ino",
+    "output": "./build",
+    "port": "COM10"
+}
